@@ -1,1 +1,1 @@
-Testig this read me informmation
+Testing this read me information
